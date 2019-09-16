@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#010202</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textoWhite">#FFFFFF</color>
+    <color name="paleteVinho">#66203E</color>
+    <color name="botaoAmarelo">#F9B306</color>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">opalpiteiro</string>
+    <string name="telasplash">telaSplash</string>
+    <string name="textoSplash">O seu Bolão!</string>
+    <string name="teladelogin">telaDeLogin</string>
+    <string name="textoBtnEntrar">Quero me Divertir</string>
+    <string name="email">email</string>
+    <string name="logoteladelogin">logotelaDelogin</string>
+    <string name="criarConta">Criar conta</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="senha">senha</string>
+</resources>
